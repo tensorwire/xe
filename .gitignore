@@ -1,0 +1,18 @@
+# Binaries
+*.exe
+*.dylib
+*.so
+*.o
+*.a
+
+# Test
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Models
+*.gguf
+*.safetensors
+*.bin
