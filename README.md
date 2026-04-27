@@ -1,5 +1,7 @@
 # Xe
 
+> **This project has moved to [github.com/tensorwire/xe](https://github.com/tensorwire/xe).** Updates will be published under [github.com/tensorwire](https://github.com/tensorwire). Code remaining in open-ai-org is unmaintained.
+
 Go library for Intel Xe GPU compute via [Level Zero](https://spec.oneapi.io/level-zero/latest/index.html). Provides two execution models — direct in-process access and a daemon-based architecture that works around Intel's IGC JIT compiler bugs.
 
 Built for ML training and inference workloads. Dispatches SPIR-V compute kernels with zero-copy shared memory between Go and the GPU.
