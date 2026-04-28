@@ -33,4 +33,4 @@ cd xe-daemon && make
 
 ## Related Packages
 
-- `github.com/open-ai-org/mongoose` — GPU compute engine (Xe is one backend)
+- `github.com/tensorwire/mongoose` — GPU compute engine (Xe is one backend)
